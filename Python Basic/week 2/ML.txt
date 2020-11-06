@@ -1,0 +1,9 @@
+#.Codebasics -youtube channel --numpy, pandas, matplotlib,deep learning
+#.machine learning mystery - blog website
+#.Python Data Science Handbook: Essential Tools for Working with Data - Jake VanderPlas
+#.Machine Learning --Udacity
+#.[FreeTutorials.Us] Master Computer Vision OpenCV4 in Python with Deep Learning -Udemy
+#.Deep Learning - Udacity
+#.Deep Learning with Python - Francois chollet
+
+
