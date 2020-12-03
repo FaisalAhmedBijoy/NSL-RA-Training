@@ -12,7 +12,7 @@
   </li>
   
   <li>
-  <h3>week 1 </h3>
+  <h3>week 2 </h3>
     <ol>
       <li>Function and module</li>
       <li>File and exception</li>
