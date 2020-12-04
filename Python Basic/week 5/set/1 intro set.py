@@ -1,0 +1,5 @@
+print(set())
+print(set('Hackerrank'))
+print(set([1,2,3,5,654,654]))
+print(set({'Hacer':10,'Rank':20,'website':15}))
+print(set(enumerate(['h','a','c','k','e','r','r','a','n','k'])))
