@@ -1,6 +1,16 @@
 '''
 make set :
     disjoint set
+[None, None, None, None, None, None]
+Initial array parents: 
+ [None, 1, 2, 3, 4, 5]
+Graph parent: 
+ [None, 2, 2, 2, 2, 4]
+New Representives : 
+ [None, 2, 2, 2, 2, 4]
+3
+Already friends
+Representative of :  5 -> is :  2
     
 
 '''
