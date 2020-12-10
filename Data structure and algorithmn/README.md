@@ -7,4 +7,9 @@ Data Structure and Algorithmn in Python
 <li>Deque</li>
 <li>Disjoint Set</li>
 <li>Array Compression</li>
+ <li>Graph respresentation</li>
+ <li>BFS</li>
+ <li>DFS</li>
+ <li>Topological sorting</li>
+ <li>Dynamic programming</li>
 <ol>
