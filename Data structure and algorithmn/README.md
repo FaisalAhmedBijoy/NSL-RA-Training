@@ -13,4 +13,6 @@ Data Structure and Algorithmn in Python
  <li>Topological sorting</li>
  <li>Dynamic programming</li>
  <li>Recursion</li>
+ <li>Search algorithm</li>
+ <li>Trees</li>
 <ol>
