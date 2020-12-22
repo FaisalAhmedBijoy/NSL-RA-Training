@@ -43,3 +43,10 @@
     </ol>
 </li>
 <ul/>
+  
+ <h2>Reference links</h2>
+ <ol>
+  <li>[বাংলায় পাইথন] (https://python.howtocode.dev/)</li>
+  <li>[My hackerrank python submission] (https://www.hackerrank.com/FABKUET)</li>
+  <li></li>
+</ol>
