@@ -31,6 +31,6 @@ Data Structure and Algorithmn in Python
 
 <h2> References link </h2>
 <ol>
-<li> [Runstone Academy](https://runestone.academy/runestone/books/published/pythonds/index.html) </li>
-<li> [শাফায়েতের ব্লগ](https://www.shafaetsplanet.com/) </li>
+<li> [Runstone Academy] (https://runestone.academy/runestone/books/published/pythonds/index.html) </li>
+<li> [শাফায়েতের ব্লগ] (https://www.shafaetsplanet.com/) </li>
 </ol>
