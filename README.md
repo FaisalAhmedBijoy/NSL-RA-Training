@@ -1,4 +1,6 @@
 # NSL-RA-Training
+Next solution lab is a research and development company in Bangladesh. NSL provides real world problem solution using mordern artificial intelligence based approach.
+
 Research Assistant Trainee, Next Solution lab 
 1. Python Basic
 2. Data sturcture and algorithmn
