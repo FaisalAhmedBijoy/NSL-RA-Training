@@ -45,8 +45,8 @@ paddleB.rect.y=200
 all_sprites_list=pygame.sprite.Group()
 
 # Add thepaddles to the list of sprites
-all_sprites_list.add(paddleA)
-all_sprites_list.add(paddleB)
+# all_sprites_list.add(paddleA)
+# all_sprites_list.add(paddleB)
 
 # Create the paddle 
 paddle=Paddle(LIGHTBLUE,100,100)
@@ -69,20 +69,20 @@ for i in range(7):
 for i in range(7):
     brick = Brick(ORANGE,80,30)
     brick.rect.x = 60 + i* 100
-    brick.rect.y = 100
+    brick.rect.y = 140
     all_sprites_list.add(brick)
     all_bricks.add(brick)
 for i in range(7):
     brick = Brick(YELLOW,80,30)
     brick.rect.x = 60 + i* 100
-    brick.rect.y = 140
+    brick.rect.y = 180
     all_sprites_list.add(brick)
     all_bricks.add(brick)
 
 # add the paddle to the list of sprites
 all_sprites_list.add(paddle)
 all_sprites_list.add(ball)
-
+print(all_sprites_list)
 
 '''
 step 4: Main program loop
@@ -138,6 +138,13 @@ while carryOn:
             
     if ball.rect.y<40:
         ball.velocity[1]= -ball.velocity[1]
+    
+    '''
+    if the ball touch any side : up, down, left ,right wall
+    then the ball set same velocity but reverse position 
+    '''
+    print('velocity :',ball.velocity)
+    print("Position: ",ball.rect)
     
     
     # Detect collisions between the ball and paddles
