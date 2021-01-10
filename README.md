@@ -7,5 +7,6 @@ Next solution lab is an artificial intelligence (AI) based top leading software 
 <li>Data sturcture and algorithm</li>
 <li>Game development in Python</li>
 <li>Image processing with Python</li>
-<li>Machine leanring and deep learning</li>
+<li>Machine leanring </li>
+<li>Deep learning</li>
 </ol>  
