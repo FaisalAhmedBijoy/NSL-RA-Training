@@ -10,3 +10,6 @@ Next solution lab is an artificial intelligence (AI) based top leading software 
 <li>Machine leanring </li>
 <li>Deep learning</li>
 </ol>  
+
+<h3>Online Course</h3>
+- Introduction to Tensorflow for Deep Learning by Udacity
