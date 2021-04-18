@@ -3,12 +3,12 @@ Next solution lab is an artificial intelligence (AI) based top leading software 
 
 <h3> Course and Project</h3>
 <ol>
-<li>Python programming basic </li>
-<li>Data sturcture and algorithm</li>
+<li>Python Programming Basic </li>
+<li>Data Sturcture and Algorithm</li>
 <li>Game development in Python</li>
-<li>Image processing with Python</li>
-<li>Machine leanring </li>
-<li>Deep learning</li>
+<li>Image Processing with Python</li>
+<li>Machine Leanring </li>
+<li>Deep Learning</li>
 </ol>  
 
 <h3>Online Course</h3>
