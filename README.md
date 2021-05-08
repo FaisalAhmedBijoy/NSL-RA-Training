@@ -16,7 +16,7 @@ Next solution lab is an artificial intelligence (AI) based top leading software 
 Repository: https://github.com/FaisalAhmedBijoy/Tensorflow-for-Deep-Learning-Udacity  
 
 <h3>Project: Image Classification and Object Detection </h3>
-<h4>Building Infrasture Classification and Detection</h4>
+<h4>Building Infrastructure Classification and Detection</h4>
 Repository: https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
 
 <h3> My Tutorial 1: Deep Learning Series </h3>
