@@ -13,4 +13,14 @@ Next solution lab is an artificial intelligence (AI) based top leading software 
 
 <h3>Online Course</h3>
 <h4>Introduction to Tensorflow for Deep Learning by Udacity </h4> 
-Repository: https://github.com/FaisalAhmedBijoy/Tensorflow-for-Deep-Learning-Udacity 
+Repository: https://github.com/FaisalAhmedBijoy/Tensorflow-for-Deep-Learning-Udacity  
+
+<h3>Project: Image Classification and Object Detection </h3>
+<h4>Building Infrastructure Classification and Detection</h4>
+Repository: https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
+
+<h3> My Tutorial 1: Deep Learning Series </h3>
+Repository: https://github.com/FaisalAhmedBijoy/Deep-Leaning-Series
+
+<h3> My Tutorial 2: Computer Vision Series </h3>
+Repository: https://github.com/FaisalAhmedBijoy/Computer-Vision-Series
