@@ -1,11 +1,11 @@
 # NSL-RA-Training 
-Next solution lab is an artificial intelligence (AI) based top leading software company in Bangladesh. My working area in this company is machine learning, deep learning and computer vision. While working as a research assistant trainee, I have to complete these projects and courses.
+Next solution lab (http://www.nextsolutionlab.com) is an artificial intelligence (AI) based top leading software company in Bangladesh. My working area in this company is machine learning, deep learning and computer vision. While working as a research assistant trainee, I have to complete these projects and courses.
 
 <h2> Course and Project</h2>
 <ol>
 <li>Python Programming Basic </li>
 <li>Data Sturcture and Algorithm</li>
-<li>Game development in Python</li>
+<li>Game Development in Python</li>
 <li>Image Processing with Python</li>
 <li>Machine Leanring </li>
 <li>Deep Learning</li>
