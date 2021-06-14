@@ -26,6 +26,11 @@ Repository: https://github.com/FaisalAhmedBijoy/Tensorflow-for-Deep-Learning-Uda
 <h3>Object Detection with YOLO</h3>
 Repository: https://github.com/FaisalAhmedBijoy/Object-Detection-with-YOLO
 </li>
+  
+  <li>
+<h3>Deep CNN Architectures Implementations </h3>
+Repository: https://github.com/FaisalAhmedBijoy/Deep-CNN-Architecture-Implementation
+</li>
 
 
 <li>
