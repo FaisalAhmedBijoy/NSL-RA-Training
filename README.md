@@ -35,8 +35,8 @@ Repository: https://github.com/FaisalAhmedBijoy/Deep-CNN-Architecture-Implementa
 
 <li>
 <h3>Project: Image Classification and Object Detection </h3>
-<h4>Building Infrastructure Classification and Detection</h4>
-Repository: https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
+<h4>Building Infrastructure Classification and Detection </h4>
+Repository (This Repository link is private) : https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
 </li>
 
 
