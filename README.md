@@ -26,12 +26,17 @@ Repository: https://github.com/FaisalAhmedBijoy/Tensorflow-for-Deep-Learning-Uda
 <h3>Object Detection with YOLO</h3>
 Repository: https://github.com/FaisalAhmedBijoy/Object-Detection-with-YOLO
 </li>
+  
+  <li>
+<h3>Deep CNN Architectures Implementations </h3>
+Repository: https://github.com/FaisalAhmedBijoy/Deep-CNN-Architecture-Implementation
+</li>
 
 
 <li>
 <h3>Project: Image Classification and Object Detection </h3>
-<h4>Building Infrastructure Classification and Detection</h4>
-Repository: https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
+<h4>Building Infrastructure Classification and Detection </h4>
+Repository (This Repository link is private) : https://github.com/FaisalAhmedBijoy/Building-infrastructure-classification-and-detection 
 </li>
 
 
