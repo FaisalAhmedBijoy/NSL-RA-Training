@@ -7,6 +7,7 @@ Next solution lab (http://www.nextsolutionlab.com) is an artificial intelligence
 <li>Data Sturcture and Algorithm</li>
 <li>Game Development in Python</li>
 <li>Image Processing with Python</li>
+<li>Natural Language Processing</li>  
 <li>Machine Leanring </li>
 <li>Deep Learning</li>
 </ol>  
