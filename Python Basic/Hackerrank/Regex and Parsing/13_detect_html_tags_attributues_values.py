@@ -31,7 +31,7 @@ class MyHTMLParser(HTMLParser):
         if (len(attrs) > 0):
             for attr in attrs:
                 print('->', attr[0], '>', attr[1])
-
+        
 parser = MyHTMLParser()
 n=int(input())
 for _ in range(n):
